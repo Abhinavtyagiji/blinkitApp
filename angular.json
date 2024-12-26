@@ -32,7 +32,7 @@
             "scripts": []
           },
           "configurations": {
-            "production": {
+            "pduction": {
               "budgets": [
                 {
                   "type": "initial",
@@ -92,5 +92,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
